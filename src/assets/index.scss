@@ -1,0 +1,11 @@
+@import "../components/Login/login.scss";
+@import "../components/Home/home.scss";
+@import "../components/Nav/Nav";
+
+html,
+body,
+:root {
+    margin: 0 auto;
+    height: 100%;
+    font-family: 'Inter', sans-serif;
+}
