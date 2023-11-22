@@ -1,5 +1,9 @@
-### HealthCare: Sistema De MOnitoramento de pacientes
+### HealthCare: Sistema De Monitoramento de pacientes
 O Projeto HealthCare busca implementar um sistema de monitoramento dos pacientes e realizar a gestão de necessidades e conformidades dos pacientes. Com ajustes de prevenção, sensor de identificação da gestão de necessidades e camêras de monitoramento de pacientes, aumenta a tendência funcional do projeto e ajuda no uso para o dia a dia.
+
+## Integrantes do Grupo
+- Allan Von Ivanov - 98705
+- Cassio Yonetsuka - 99678
 
 ### Objetivos
 - Desenvolver um sistema de monitoramento remoto acessível e intuitivo, proporcionando aos profissionais de saúde um controle eficaz sobre os registros médicos eletrônicos.
@@ -58,10 +62,6 @@ Senha: teste123
 Para acessar e visualizar a versão mais recente do projeto EcoChoice, você pode visitar a aplicação hospedada na plataforma Vercel. A Vercel é uma plataforma de deploy que oferece escalabilidade e desempenho para garantir uma ótima experiência ao usuário.
 
 ### Para acessar o projeto:
-
-## Integrantes do Grupo
-- Allan Von Ivanov - 98705
-- Cassio Yonetsuka - 99678
 
 ## Executando o Projeto
 Siga os passos abaixo para executar o projeto em sua máquina local:
