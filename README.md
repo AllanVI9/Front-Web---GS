@@ -58,11 +58,6 @@ Alguns pontos chave deste projeto incluem:
 Usuário: teste
 Senha: teste123
 
-## Deploy do Projeto com Vercel
-Para acessar e visualizar a versão mais recente do projeto EcoChoice, você pode visitar a aplicação hospedada na plataforma Vercel. A Vercel é uma plataforma de deploy que oferece escalabilidade e desempenho para garantir uma ótima experiência ao usuário.
-
-### Para acessar o projeto:
-
 ## Executando o Projeto
 Siga os passos abaixo para executar o projeto em sua máquina local:
 
